@@ -1,6 +1,6 @@
 # Loan Default Prediction 
 
-[Project Repo](https://github.com/Feritaba/Predicting_Anxeity_Depression)
+[Project Repo](https://github.com/tamhuynh273/Data240_LoanDefaultPrediction/tree/main)
 <br>
 We are performing Vehicle Loan Prediction task utilizing Data Mining Techniques
 ### DATASET
@@ -19,7 +19,15 @@ This project classify vehicle loan to see whether or not a person will default.
 To run the project:
 - run `pip install -r requirements.txt`
 - run `python main.py`
-- As a result, you will see evaluation metrics on each of the models. 
+- As a result, you will see evaluation metrics on each of the models.
+
+
+### Contribution
+- Nilisha: Exploratory Data Analysis, Data Cleaning and Preprocessing, Models - KNN, Decision Tree
+
+- Bhavana: Standardization, SMOTE, Feature selection, Modeling (Rest),  Hyper-parameter tuning
+
+- Tam: Adaptive Synthetic, Recursive Feature Elimination, Hyper-parameter tuning, Threshold tuning
 
 
 
