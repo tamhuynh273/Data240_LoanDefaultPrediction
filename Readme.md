@@ -1,6 +1,5 @@
 # Loan Default Prediction 
 
-[Project Repo](https://github.com/tamhuynh273/Data240_LoanDefaultPrediction/tree/main)
 <br>
 We are performing Vehicle Loan Prediction task utilizing Data Mining Techniques
 ### DATASET
